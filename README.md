@@ -44,6 +44,16 @@
   <img src="https://leetcard.jacoblin.cool/user3746aH?theme=dark&font=Adamina" width="418" />
 </p>
 
+
+<table>
+   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=lakshyanawandar23&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1963DB&icon_color=41B5AA&text_color=DBB6FF&bg_color=0,000000,130F40" alt="Lakshya" />
+         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyanawandar23&theme=dark&line_height=23" alt="lakshya" /></td>
+   </tr>
+</table>
+
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=lakshyanawandar23&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+
 ## Contribution Heat map
 <kbd>
 <img src="https://raw.githubusercontent.com/lakshyanawandar23/lakshyanawandar23/output/github-contribution-grid-snake.svg" />
