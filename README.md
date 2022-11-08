@@ -51,7 +51,7 @@
 
 ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=lakshyanawandar23&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
-#Github Snake Eating Contributions
+## Github Snake Eating Contributions
 ![snake gif](https://github.com/lakshyanawandar23/lakshyanawandar23/blob/output/github-contribution-grid-snake.gif)
 
 
