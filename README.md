@@ -44,15 +44,10 @@
   <img src="https://leetcard.jacoblin.cool/user3746aH?theme=dark&font=Adamina" width="418" />
 </p>
 
-## 📈 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyanawandar23&theme=dark&font=Adamina" width="422" />
-</p>
-
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=lakshyanawandar23&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
-
-## Github Snake Eating Contributions
-![snake gif](https://github.com/lakshyanawandar23/lakshyanawandar23/blob/output/github-contribution-grid-snake.gif)
+## Contribution Heat map
+<kbd>
+<img src="https://raw.githubusercontent.com/lakshyanawandar23/lakshyanawandar23/output/github-contribution-grid-snake.svg" />
+</kbd>
 
 
 ## 👀 Visitors count
