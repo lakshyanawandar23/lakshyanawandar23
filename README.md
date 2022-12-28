@@ -52,7 +52,7 @@
    </tr>
 </table>
 
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=lakshyanawandar23&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+[![Lakshya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lakshyanawandar23&theme=react)](https://github.com/lakshyanawandar23/github-readme-activity-graph)
 
 ## Contribution Heat map
 <kbd>
