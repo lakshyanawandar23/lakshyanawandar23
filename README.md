@@ -36,9 +36,7 @@
 
 ## LeetCode Solved Problems
 
-<p float="left">
-  <img src="https://leetcard.jacoblin.cool/user3746aH?theme=dark&font=Adamina" width="418" />
-</p>
+
 
 
 <table>
