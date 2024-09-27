@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-812&show_icons=true&locale=en&layout=compact" alt="deepak-sharma-812" /></p>
 
-## LeetCode Solved Problems
+
 
 
 
