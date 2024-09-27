@@ -25,11 +25,7 @@
 
 - 📫 How to reach me **lakshya.nawandhar.457@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<kbd><a href="https://www.codechef.com/users/lakshya23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111570269/200505313-cefd2bf4-6e47-4f23-9c27-3dfe8e729ff5.svg" alt="deepak812" height="30" width="30" /></a></kbd>
-<kbd><a href="https://www.leetcode.com/user3746aH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lakshya" height="30" width="40" /></a></kbd>
-</p>
+
 
 ## Languages and Tools:
 
